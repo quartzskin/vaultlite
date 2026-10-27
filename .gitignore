@@ -1,0 +1,7 @@
+out/
+*.class
+*.vlt
+*.vlt.bak
+*.vlt.tmp
+_scratch/
+!docs/*.png
